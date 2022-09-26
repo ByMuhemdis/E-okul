@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-okul", "E-okul\E-okul.csproj", "{114A1362-A535-4F40-ABAB-DA45028373A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114A1362-A535-4F40-ABAB-DA45028373A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114A1362-A535-4F40-ABAB-DA45028373A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114A1362-A535-4F40-ABAB-DA45028373A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114A1362-A535-4F40-ABAB-DA45028373A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE59E9C7-DA59-4617-82C3-CCB927A669A0}
+	EndGlobalSection
+EndGlobal
